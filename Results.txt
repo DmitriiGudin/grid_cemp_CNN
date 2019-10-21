@@ -1,0 +1,64 @@
+e available on your machine and could speed up CPU computations.
+2017-12-06 20:59:45.530256: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+206s - loss: 0.4922 - acc: 0.8610 - mean_absolute_error: 0.2214 - val_loss: 0.0398 - val_acc: 0.8955 - val_mean_absolute_error: 0.1380
+Epoch 2/30
+205s - loss: 0.0458 - acc: 0.9286 - mean_absolute_error: 0.1032 - val_loss: 0.0122 - val_acc: 0.9548 - val_mean_absolute_error: 0.0643
+Epoch 3/30
+206s - loss: 0.0109 - acc: 0.9531 - mean_absolute_error: 0.0635 - val_loss: 0.0082 - val_acc: 0.9645 - val_mean_absolute_error: 0.0563
+Epoch 4/30
+205s - loss: 0.0106 - acc: 0.9563 - mean_absolute_error: 0.0619 - val_loss: 0.0062 - val_acc: 0.9662 - val_mean_absolute_error: 0.0470
+Epoch 5/30
+253s - loss: 0.0100 - acc: 0.9583 - mean_absolute_error: 0.0590 - val_loss: 0.0071 - val_acc: 0.9543 - val_mean_absolute_error: 0.0548
+Epoch 6/30
+200s - loss: 0.0064 - acc: 0.9670 - mean_absolute_error: 0.0473 - val_loss: 0.0061 - val_acc: 0.9628 - val_mean_absolute_error: 0.0467
+Epoch 7/30
+202s - loss: 0.0058 - acc: 0.9693 - mean_absolute_error: 0.0443 - val_loss: 0.0061 - val_acc: 0.9648 - val_mean_absolute_error: 0.0526
+Epoch 8/30
+273s - loss: 0.0052 - acc: 0.9700 - mean_absolute_error: 0.0425 - val_loss: 0.0042 - val_acc: 0.9659 - val_mean_absolute_error: 0.0375
+Epoch 9/30
+210s - loss: 0.0047 - acc: 0.9716 - mean_absolute_error: 0.0408 - val_loss: 0.0043 - val_acc: 0.9616 - val_mean_absolute_error: 0.0405
+Epoch 10/30
+258s - loss: 0.0045 - acc: 0.9732 - mean_absolute_error: 0.0396 - val_loss: 0.0038 - val_acc: 0.9739 - val_mean_absolute_error: 0.0348
+Epoch 11/30
+213s - loss: 0.0043 - acc: 0.9734 - mean_absolute_error: 0.0389 - val_loss: 0.0037 - val_acc: 0.9759 - val_mean_absolute_error: 0.0374
+Epoch 12/30
+221s - loss: 0.0040 - acc: 0.9740 - mean_absolute_error: 0.0377 - val_loss: 0.0035 - val_acc: 0.9702 - val_mean_absolute_error: 0.0371
+Epoch 13/30
+247s - loss: 0.0037 - acc: 0.9739 - mean_absolute_error: 0.0361 - val_loss: 0.0032 - val_acc: 0.9759 - val_mean_absolute_error: 0.0345
+Epoch 14/30
+
+Epoch 00013: reducing learning rate to 0.00034999998752.
+255s - loss: 0.0035 - acc: 0.9755 - mean_absolute_error: 0.0352 - val_loss: 0.0039 - val_acc: 0.9668 - val_mean_absolute_error: 0.0405
+Epoch 15/30
+207s - loss: 0.0022 - acc: 0.9842 - mean_absolute_error: 0.0251 - val_loss: 0.0019 - val_acc: 0.9776 - val_mean_absolute_error: 0.0250
+Epoch 16/30
+215s - loss: 0.0023 - acc: 0.9831 - mean_absolute_error: 0.0256 - val_loss: 0.0017 - val_acc: 0.9801 - val_mean_absolute_error: 0.0223
+Epoch 17/30
+216s - loss: 0.0024 - acc: 0.9821 - mean_absolute_error: 0.0267 - val_loss: 0.0017 - val_acc: 0.9875 - val_mean_absolute_error: 0.0236
+Epoch 18/30
+
+Epoch 00017: reducing learning rate to 0.00017499999376.
+213s - loss: 0.0020 - acc: 0.9833 - mean_absolute_error: 0.0242 - val_loss: 0.0025 - val_acc: 0.9744 - val_mean_absolute_error: 0.0270
+Epoch 19/30
+218s - loss: 0.0016 - acc: 0.9869 - mean_absolute_error: 0.0200 - val_loss: 0.0013 - val_acc: 0.9884 - val_mean_absolute_error: 0.0188
+Epoch 20/30
+
+Epoch 00019: reducing learning rate to 8.74999968801e-05.
+220s - loss: 0.0015 - acc: 0.9878 - mean_absolute_error: 0.0195 - val_loss: 0.0014 - val_acc: 0.9849 - val_mean_absolute_error: 0.0198
+Epoch 21/30
+217s - loss: 0.0013 - acc: 0.9896 - mean_absolute_error: 0.0173 - val_loss: 0.0012 - val_acc: 0.9835 - val_mean_absolute_error: 0.0168
+Epoch 22/30
+214s - loss: 0.0013 - acc: 0.9895 - mean_absolute_error: 0.0172 - val_loss: 0.0013 - val_acc: 0.9812 - val_mean_absolute_error: 0.0201
+Epoch 23/30
+215s - loss: 0.0013 - acc: 0.9890 - mean_absolute_error: 0.0169 - val_loss: 0.0012 - val_acc: 0.9818 - val_mean_absolute_error: 0.0185
+Epoch 24/30
+
+Epoch 00023: reducing learning rate to 8e-05.
+220s - loss: 0.0012 - acc: 0.9889 - mean_absolute_error: 0.0168 - val_loss: 0.0011 - val_acc: 0.9875 - val_mean_absolute_error: 0.0177
+Epoch 25/30
+219s - loss: 0.0012 - acc: 0.9905 - mean_absolute_error: 0.0163 - val_loss: 0.0013 - val_acc: 0.9812 - val_mean_absolute_error: 0.0171
+Epoch 26/30
+217s - loss: 0.0012 - acc: 0.9894 - mean_absolute_error: 0.0162 - val_loss: 0.0012 - val_acc: 0.9903 - val_mean_absolute_error: 0.0162
+Epoch 00025: early stopping
+Training done.
+

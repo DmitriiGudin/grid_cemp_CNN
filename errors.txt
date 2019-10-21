@@ -1,0 +1,9 @@
+Teff mean error:  0.936773
+Teff error STD:  18.6614
+log(g) mean error:  0.00011883
+log(g) error STD:  0.0317575
+Z mean error:  -0.00736951
+Z error STD:  0.024307
+A(C) mean error:  -0.016854
+A(C) error STD:  0.109888
+
